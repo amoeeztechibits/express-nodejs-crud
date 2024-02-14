@@ -1,0 +1,4 @@
+1.  Set DB Credientials  in config/database.js
+2.  To Create Migration --use Command  node database/migration-creator.js (Name Of Migration)
+3.  To run Migration --use Command node database/migration-runner.js
+4.  Create Model
